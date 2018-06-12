@@ -29,9 +29,9 @@ El millor resultat a Kaggle han estat les prediccions fetes amb el classificador
 
 
 # Fitxers
-* **src/titanic_kaggle.py**: Fitxer amb el codi font
-* **src/train.csv**: Dataset etiquetat per entrenar i avalaur els models
-* **src/test.csv**: Dataset del que s'ha de fer predicció per pujar a Kaggle
+* **titanic_kaggle.py**: Fitxer amb el codi font
+* **train.csv**: Dataset etiquetat per entrenar i avalaur els models
+* **test.csv**: Dataset del que s'ha de fer predicció per pujar a Kaggle
 * **submission_clf_2_best.csv**: Prediccions del fitxer de test amb millor resultat obtingut a Kaggle (accuracy del 77.033%)
 * **arbre_decisio_deep_4.dot**: Arbre de decisió de profunditat 4 generat. Es pot visualitzar incrustant el contingut a http://www.webgraphviz.com/
 
